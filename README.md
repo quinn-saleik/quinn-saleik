@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Quinn! <br/><a href="https://github.com/quinn-saleik">Data Scientist Student</a>, <a href="https://www.linkedin.com/in/quinn-saleik/">Aspiring Informatics Professional</a>
+<h1>Hi, I'm Quinn! <br/><a href="https://github.com/quinn-saleik">Data Science Student</a>, <a href="https://www.linkedin.com/in/quinn-saleik/">Aspiring Informatics Professional</a>
 
 
 <h2>👨‍💻 Data Science Projects:</h2>
