@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Quinn! <br/><a href="https://github.com/quinn-saleik">Data Solutions Engineer / Product Engineer </a>, <a href="https://www.linkedin.com/in/quinn-saleik/">Tuning the harmony between data, people, and impact</a>
+<h1>Hi, I'm Quinn! <br/><a href="https://github.com/quinn-saleik">Data Solutions Engineer / Product Engineer </a>, <a href="https://www.linkedin.com/in/quinn-saleik/"> a> Tuning the harmony between data, people, and impact
 
 
 <h2>👨‍💻 Data Science Projects:</h2>
