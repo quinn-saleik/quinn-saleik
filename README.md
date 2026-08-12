@@ -1,6 +1,6 @@
-### Hi, I'm Quinn 👋
+### Hi, I'm Quinn! 👋
 
-Data Solutions Engineer, translating AI & data into tools people actually use — at work and for fun.
+Data Solutions Engineer, translating AI & data into tools people actually use...with fun life tools and passion projects on the side.
 
 **Currently:** Data Solutions Engineer II @ CareSource, building agentic AI / natural-language data access (Databricks Genie) for non-technical teams.
 
@@ -11,5 +11,5 @@ Data Solutions Engineer, translating AI & data into tools people actually use �
 - 🍽️ [nash-eats](https://github.com/quinn-saleik/nash-eats) — Nashville restaurant recommender with a decision-tree wizard, Foursquare API integration, deployed on GitHub Pages
 
 
-
 **Connect:** [LinkedIn](https://linkedin.com/in/quinnsaleik)
+Always happy to talk data. Let's chat!
