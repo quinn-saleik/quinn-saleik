@@ -1,36 +1,13 @@
+### Hi, I'm Quinn 👋
 
-<h1>Hi, I'm Quinn! <br/><a href="https://github.com/quinn-saleik">Data Science Student</a>, <a href="https://www.linkedin.com/in/quinn-saleik/">Aspiring Informatics Professional</a>
+Data Solutions Engineer, translating AI & data into tools people actually use — at work and for fun.
 
+**Currently:** Data Solutions Engineer II @ CareSource, building agentic AI / natural-language data access (Databricks Genie) for non-technical teams.
 
-<h2>👨‍💻 Data Science Projects:</h2>
+**Projects**
+- 🍽️ [nash-eats](https://github.com/quinn-saleik/nash-eats) — Nashville restaurant recommender with a decision-tree wizard, Foursquare API integration, deployed on GitHub Pages
+- 🗺️ [ne-road-trip-app](https://github.com/quinn-saleik/ne-road-trip-app) — Personalized road-trip planner with live maps, weather, and a Google Apps Script sync backend
+- 📊 [Health-Factors-in-Metro-Areas](https://github.com/quinn-saleik/Health-Factors-and-Demographic-Populations-in-Metro-Areas) — Regression analysis of health-risk disparities across U.S. metro areas
+- 💰 [budget-inbox-sync](https://github.com/quinn-saleik/budget-inbox-sync) — Google Apps Script that turns Gmail into a personal finance pipeline, with an AI-generated weekly report (Gemini API)
 
-- <b>COVID-19 Multiple Regression Model</b>
-
-- <b>Nashville Metro Housing Analysis</b>
-
-- <b>Metro Area Health and Racial Inequalities</b>
-
-- <b>Soccer Analytics & Modeling</b>
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/quinnsaleik
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:** [LinkedIn](https://linkedin.com/in/quinnsaleik)
