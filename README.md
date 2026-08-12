@@ -11,5 +11,5 @@ Data Solutions Engineer, translating AI & data into tools people actually use...
 - 🍽️ [nash-eats](https://github.com/quinn-saleik/nash-eats) — Nashville restaurant recommender with a decision-tree wizard, Foursquare API integration, deployed on GitHub Pages
 
 
-**Connect:** [LinkedIn](https://linkedin.com/in/quinnsaleik)
+**Connect:** [LinkedIn](https://linkedin.com/in/quinnsaleik);
 Always happy to talk data. Let's chat!
