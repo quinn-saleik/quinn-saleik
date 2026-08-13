@@ -10,7 +10,7 @@ Data Solutions Engineer, translating AI & data into tools people actually use...
 - 🗺️ [ne-road-trip-app](https://github.com/quinn-saleik/ne-road-trip-app) — Personalized road-trip planner with live maps, weather, and a Google Apps Script sync backend
 - 📊 [Health-Factors-in-Metro-Areas](https://github.com/quinn-saleik/Health-Factors-and-Demographic-Populations-in-Metro-Areas) — Regression analysis of health-risk disparities across U.S. metro areas
 - 🍽️ [nash-eats](https://github.com/quinn-saleik/nash-eats) — Nashville restaurant recommender with a decision-tree wizard, Foursquare API integration, deployed on GitHub Pages
-- 🎓 [MNPS Consulting Proposition] (https://github.com/quinn-saleik/MNPS-consulting-proposition) - While not engineering-focused, demonstrates group propsition through Nashville's Chamber of Commerce to consult MNPS's Academy system through research-based recommendations
+- 🎓 [MNPS Consulting Proposition](https://github.com/quinn-saleik/MNPS-consulting-proposition) - While not engineering-focused, demonstrates group propsition through Nashville's Chamber of Commerce to consult MNPS's Academy system through research-based recommendations
 
 
 **Connect:** Always happy to talk data. Let's chat! [LinkedIn](https://linkedin.com/in/quinnsaleik)
