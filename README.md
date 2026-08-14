@@ -7,6 +7,7 @@ Data Solutions Engineer, translating AI & data into tools people actually use...
 **Projects:** A snapshot of research, personal life management, and passion projects are listed below:
 - 💰 [budget-inbox-sync](https://github.com/quinn-saleik/budget-inbox-sync) — Google Apps Script that turns personalized alerts through Gmail into a personal finance pipeline, with an AI-generated weekly report (Gemini API)
 - 🏘️ [nashville-housing-pressure-map](https://github.com/quinn-saleik/nashville-housing-pressure-map) — Interactive map of short-term rental density vs. rent burden by census tract in Davidson County, built live on Metro Nashville + Census open data
+- 🚊 [nashville-transit-equity-explorer](https://github.com/quinn-saleik/nashville-transit-equity-explorer) - maps WeGo transit access against housing-cost pressure by census tract to surface neighborhoods where transit deserts and rent burden overlap, backed by a real PostGIS + FastAPI stack deployed on Azure
 - 🗺️ [ne-road-trip-app](https://github.com/quinn-saleik/ne-road-trip-app) — Personalized road-trip planner with live maps, weather, and a Google Apps Script sync backend
 - 📊 [Health-Factors-in-Metro-Areas](https://github.com/quinn-saleik/Health-Factors-and-Demographic-Populations-in-Metro-Areas) — Regression analysis of health-risk disparities across U.S. metro areas
 - 🍽️ [nash-eats](https://github.com/quinn-saleik/nash-eats) — Nashville restaurant recommender with a decision-tree wizard, Foursquare API integration, deployed on GitHub Pages
