@@ -1,4 +1,4 @@
-### Hi, I'm Quinn! 👋
+### Hi, I'm Quinn! 👋 ([LinkedIn](https://linkedin.com/in/quinnsaleik))
 
 Data Solutions Engineer, translating AI & data into tools people actually use...with fun life tools and passion projects on the side.
 
